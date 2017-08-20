@@ -13,7 +13,6 @@ INDEX VERSION 1.130+C:\Users\cnzkl\Documents\Documents\.metadata\.plugins\org.ec
 91472061.index
 30881555.index
 2561179376.index
-2157645177.index
 2997567257.index
 1525087677.index
 2911469802.index
